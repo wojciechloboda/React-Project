@@ -1,0 +1,5 @@
+
+.move0-enter-active{
+    left: 0;
+    transition: left 2s;
+}

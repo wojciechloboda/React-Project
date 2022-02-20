@@ -1,0 +1,20 @@
+
+
+.footer{
+  left: 0;
+  position: relative;
+  background-color: yellow;
+}
+
+.move-enter{
+  left: 0
+}
+
+.move-enter-active{
+  transition: all 3s;
+}
+
+.move-enter-done{
+  left: -90vw;
+  transition: all 3s;
+}
